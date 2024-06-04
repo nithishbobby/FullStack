@@ -1,0 +1,76 @@
+/* src/components/HomePage.css */
+.home-page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+header {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+  color: #343a40;
+}
+
+header p {
+  font-size: 1.2em;
+  color: #6c757d;
+}
+
+main {
+  margin-top: 30px;
+}
+
+main section {
+  margin-bottom: 30px;
+}
+
+main h2 {
+  font-size: 2em;
+  color: #343a40;
+}
+
+main p {
+  font-size: 1.1em;
+  color: #495057;
+}
+
+main ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+main li {
+  font-size: 1em;
+  color: #495057;
+  margin-bottom: 10px;
+}
+
+main li strong {
+  color: #007bff;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1.1em;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
